@@ -203,11 +203,9 @@ terraform destroy -auto-approve
 ---
 
 ## 14. Architecture Diagram
-(Include architecture PNG from image generation)
+<img width="2654" height="1628" alt="image" src="https://github.com/user-attachments/assets/dd1e60ac-9351-4671-aeee-1ae753d84e1e" />
 
 ---
 
-## 15. Final Notes
-For any improvements, advanced monitoring, autoscaling, or containerization, feel free to request extensions or enhancements.
 
 
