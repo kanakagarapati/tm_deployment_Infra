@@ -207,5 +207,7 @@ terraform destroy -auto-approve
 
 ---
 
+## 15: Screens 
+<img width="2474" height="1512" alt="image" src="https://github.com/user-attachments/assets/f34d0a2b-5235-4b0f-b73e-5e49075e4d1d" />
 
 
